@@ -236,3 +236,7 @@ terraform.rc
 
 # Ignore .ssh folders
 **/.ssh/
+
+# Ignore per-developer rules
+.cursorignore
+.cursor
